@@ -1,0 +1,1 @@
+# halfturn_reduction_alg_generator
